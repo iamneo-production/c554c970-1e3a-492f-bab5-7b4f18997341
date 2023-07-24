@@ -1,0 +1,20 @@
+
+.contact{
+    font-size: 35px;
+    font-style: Monospace;
+    
+}
+
+
+.mine011{
+           
+    margin-left: 1200px;
+    margin-bottom: 20px;
+    color: #000;
+    padding: 20px 25px;
+    border:#333333;
+    border-radius: 5px;
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+}
